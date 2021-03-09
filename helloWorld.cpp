@@ -3,5 +3,5 @@
 using namespace std;
 
 int main(){
-	cout<<"Hello World in the new branch!!";
+	cout<<"Hello World in the main branch!!";
 }
