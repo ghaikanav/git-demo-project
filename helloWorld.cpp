@@ -3,6 +3,5 @@
 using namespace std;
 
 int main(){
-	cout<<"Hello World!!";
-	cout<<"\nHello Kanav!!";
+	cout<<"Hello World in the new branch!!";
 }
